@@ -1,1 +1,1 @@
-# demo-quarkus-rest-json
+Quarkus guide: https://quarkus.io/guides/rest-json
